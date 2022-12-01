@@ -1,0 +1,74 @@
+*{
+margin: 0;
+padding: 0;
+color: black;
+}
+body{
+    background-color: #fbbc02;
+    position: absolute;
+    width: 30%;
+    top: 10%;
+    left: 27%;
+}
+.logo{
+    position: relative;
+    width:25%;
+    margin-left: 40%;
+}
+h4{
+    position: relative;
+    width:40%;
+    margin-left: 40%;
+    margin-top: 2%;
+
+}
+form{
+    background-color: white;
+    font-size: 40px;
+    width: 600px;
+    height: 400px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 3%;
+}
+.registros{
+    margin-top: 50px;
+}
+.nombre{
+font-size: 30px;
+text-align: center;
+margin-left: 100px;
+
+}
+input{
+    border-radius: 3%;
+    font-size: 20px;
+    width: 200px;
+}
+.input1{
+margin-left: 35px;
+
+}
+.input2{
+    margin-left: 65px;
+}
+
+.email{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 100px;;
+
+}
+.contraseña{
+    font-size: 30px;
+    margin-left: 100px;;
+}
+
+.enviar{
+    background-color: #420DA3;
+    color: white;
+    padding: 5px;
+    width: 100px !important;
+    margin-left: 17%;       
+    }
